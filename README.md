@@ -1,10 +1,10 @@
 # Flow Chart
 ```mermaid
 flowchart TD
-    A[Veille] -->|Interaction localisé icitte| B{Menu Principal}
-    B -->|Jouer| D[le jeu démarre]
+    A[Veille] -->|Interaction produite| B{Menu Principal}
+    B -->|Jouer| D[Le jeu démarre]
     B -->|Instructions| E[Affiche les instructions]
-    D --> F{Nouvelle Round}
+    D --> F{Nouvelle manche}
     F --> G[Trouve la cible]
     F --> H[Manque de temps]
     G --> F
