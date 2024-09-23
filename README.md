@@ -15,7 +15,7 @@ flowchart TD
     D --> F{Nouvelle manche}
     F --> G[Trouve la cible]
     F --> H[Manque de temps]
-    G --> F
+    G -->|Augmente la difficulté| F
     H -->|Fait quitter| B
     H -->|Fait rien| A
     H -->|Recommencer| D
