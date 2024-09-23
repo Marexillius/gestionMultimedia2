@@ -1,4 +1,4 @@
-# Scénarisation
+# Projet: Recherche Nocturne
 ## Idée
 ### Concept
 Utiliser une lampe de torche pour trouver des éléments recherchés et cachés sur un écran dans le temps attribué.
