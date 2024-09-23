@@ -23,7 +23,7 @@ flowchart TD
 
 ## Ambiance
 Moodboard
-[Moodboard](./)
+[Image du moodboard](./assets/moodboardFlashMyLight.jpg)
 
 ## Technologies
 - Lampe de torche non-fonctionnelle
